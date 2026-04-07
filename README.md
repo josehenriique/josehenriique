@@ -1,14 +1,13 @@
-### Hi, I'm José <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-I'm a Developer Web and Mobile. Currently i'm working as a Freelancer 💻
+### Olá, eu sou José Henrique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+Sou desenvolvedor Web com foco no ecossistema JavaScript
 
-My current tools:
+Minhas principais ferramentas:
 
-- 🖥️ Front-end Web with React Native
-- 📱 Front-end Mobile with React
-- 📡 Back-end with NodeJS
+- 📱 Front-end com React
+- 📡 Back-end com NodeJS
 - 🏷️ Typescript
 - 🐍 Python
-- 📦 And more...
+- 📦 e mais...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="josehenriique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,8 +21,8 @@ My current tools:
 
 ##
 
-### 💬 Find me elsewhere
+### 💬 Me encontre em....
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-henrique-1a0942211/)](https://www.linkedin.com/in/jos%C3%A9-henrique-1a0942211/) 
-[![Gmail Badge](https://img.shields.io/badge/-josehenrique.cs321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josehenrique.cs321@gmail.com)](mailto:josehenrique.cs321@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-henrique-1a0942211/)](www.linkedin.com/in/josehenriique) 
+[![Gmail Badge](https://img.shields.io/badge/-josehenriique.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josehenriique.dev@gmail.com)](mailto:josehenriique.dev@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joseheenriique/)](https://www.instagram.com/joseheenriique/)
