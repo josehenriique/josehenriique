@@ -3,8 +3,7 @@ Sou desenvolvedor Web com foco no ecossistema JavaScript
 
 Minhas principais ferramentas:
 
-- 📱 Front-end com React
-- 📡 Back-end com NodeJS
+- 💻 Javascript
 - 🏷️ Typescript
 - 🐍 Python
 - 📦 e mais...
@@ -12,8 +11,6 @@ Minhas principais ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="josehenriique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="josehenriique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="josehenriique-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="josehenriique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="josehenriique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="josehenriique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="josehenriique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
