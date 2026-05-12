@@ -1,5 +1,5 @@
 ### Olá, eu sou José Henrique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-<p>Desenvolvedor Full Stack com foco no ecossistema JavaScript, atuando com Node.js no backend e React no frontend. Graduando em Ciência da Computação.</p> <br>
+<p>Desenvolvedor Full Stack com foco no ecossistema JavaScript. Graduando em Ciência da Computação.</p> <br>
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -17,6 +17,6 @@
 
 ### 💬 Me encontre em
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-henrique-1a0942211/)](www.linkedin.com/in/josehenriique) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-henrique-1a0942211/)](https://www.linkedin.com/in/josehenriique) 
 [![Gmail Badge](https://img.shields.io/badge/-josehenriique.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josehenriique.dev@gmail.com)](mailto:josehenriique.dev@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joseheenriique/)](https://www.instagram.com/joseheenriique/)
